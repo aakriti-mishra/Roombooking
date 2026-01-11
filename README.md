@@ -1,42 +1,32 @@
-## Room Booking System (C++)
+# Room Booking System (C++)
 
-A console-based Room Booking System developed using C++, designed to simulate basic hotel room management operations such as booking, availability checking, cancellation, and billing.
-This project focuses on core programming logic, data handling, and user interaction through a menu-driven interface.
+A console-based Room Booking System developed using C++ that allows users to manage room availability, bookings, and cancellations efficiently.
 
 ## Features
-
-Room availability management
-
-Room booking and cancellation
-
-Customer details handling
-
-Billing and cost calculation
-
-Menu-driven console interface
-
-Input validation for smooth execution
+- Book rooms based on availability
+- Cancel existing bookings
+- Display current booking details
+- User-friendly console menu
 
 ## Technologies Used
-
-Language: C++
-
-Concepts:
-
-Structured Programming
-
-Arrays / Vectors
-
-Conditional Statements
-
-Loops and Functions
+- C++
+- Object-Oriented Programming (OOP)
+- File handling
+- Standard Template Library (STL)
 
 ## Concepts Applied
+- Classes and Objects
+- Arrays / Vectors for data storage
+- Conditional logic and loops
+- Modular code structure
 
-Modular programming for better code organization
+## How to Run
+1. Open the project in any C++ supported IDE (VS Code / Visual Studio)
+2. Compile the source files
+3. Run the executable
+4. Follow on-screen instructions
 
-Efficient data storage using arrays/vectors
-
-Logical flow control for booking and cancellation
-
-User-friendly console navigation
+## Future Improvements
+- Add date-wise booking
+- Improve input validation
+- Convert to GUI-based application
